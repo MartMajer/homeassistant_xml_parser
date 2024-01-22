@@ -1,12 +1,12 @@
 {
-  "domain": "integration_blueprint",
-  "name": "Integration blueprint",
+  "domain": "xml_parser",
+  "name": "XML Parser",
   "codeowners": [
-    "@ludeeus"
+    "@MartMaje"
   ],
   "config_flow": true,
-  "documentation": "https://github.com/ludeeus/integration_blueprint",
+  "documentation": "https://github.com/MartMajer/homeassistant_xml_parser",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/ludeeus/integration_blueprint/issues",
-  "version": "0.0.0"
+  "issue_tracker": "https://github.com/MartMajer/homeassistant_xml_parser/issues",
+  "version": "0.1.0"
 }
